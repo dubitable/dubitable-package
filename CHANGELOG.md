@@ -1,5 +1,15 @@
 # dubitable
 
+## 1.0.0
+
+### Major Changes
+
+- 907137e: Fig Detector
+
+  - HTTP API endpoint is live for fig detecting
+  - TS wrapper for predicting images
+  - zod integration for runtime data validation
+
 ## 0.1.0
 
 ### Minor Changes
