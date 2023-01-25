@@ -1,4 +1,4 @@
-# dubitable
+# dubitable-ai
 
 ## 1.0.0
 

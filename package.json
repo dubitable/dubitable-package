@@ -1,5 +1,5 @@
 {
-  "name": "dubitable",
+  "name": "dubitable-ai",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
