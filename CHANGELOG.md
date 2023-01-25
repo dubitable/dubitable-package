@@ -1,5 +1,11 @@
 # dubitable-ai
 
+## 1.0.1
+
+### Patch Changes
+
+- dc151f3: Renamed package from dubitable to dubitable-ai
+
 ## 1.0.0
 
 ### Major Changes
